@@ -242,6 +242,12 @@ For issues, questions, or feature requests:
 
 ## 🏆 IBM Bob Hackathon 2026
 
-This project was built as part of the **IBM Bob Hackathon 2026**, showcasing the power of IBM Watson Machine Learning and the Granite model family for real-world developer tools. PRobe demonstrates how AI can enhance code review workflows, improve code quality, and accelerate software delivery.
+# IBM Bob Hackathon 2026
 
-**Built with ❤️ using IBM Watson ML + Granite 3.0 8B Instruct**
+PRobe was built for the **IBM Bob Hackathon 2026** to explore how AI development partners like IBM Bob can transform modern code review workflows.
+
+By combining contextual code understanding with intelligent pull request analysis, PRobe helps engineering teams review changes faster, identify potential risks earlier, and ship with greater confidence.
+
+The project reflects the core vision of IBM Bob: AI that works with real repositories, understands development context, and assists across practical software engineering workflows.
+
+**Built with ❤️ using IBM Granite 3.0 8B Instruct**
