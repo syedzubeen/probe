@@ -17,7 +17,7 @@ PRobe analyzes pull requests and surfaces:
 
 All analysis happens in **one single AI call** to conserve credits and maximize efficiency.
 
-![PRobe Dashboard]()
+![PRobe Dashboard](https://github.com/user-attachments/assets/84546c89-cdb2-48ba-abde-2a5321d1cdd6)
 
 ## 🚀 Features
 
