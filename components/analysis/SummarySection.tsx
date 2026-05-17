@@ -7,7 +7,7 @@ interface SummarySectionProps {
 
 export function SummarySection({ summary }: SummarySectionProps) {
   return (
-    <Card accent className="animate-fade-slide">
+    <div className="animate-fade-slide">
       <CardContent>
         <p className="text-[10px] font-[family-name:var(--font-dm-mono)] uppercase tracking-[0.2em] text-white/40 mb-3">
           What This PR Does
@@ -16,7 +16,7 @@ export function SummarySection({ summary }: SummarySectionProps) {
           {summary}
         </p>
       </CardContent>
-    </Card>
+    </div>
   );
 }
 
