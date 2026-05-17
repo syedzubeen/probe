@@ -1,8 +1,6 @@
-<h1>PRobe</h1>
+# PRobe
 
-<p>
-  <sub><em>Deep scan. Smart review. Ship with confidence.</em></sub>
-</p>
+> Deep scan. Smart review. Ship with confidence.
 
 
 **PRobe** is an AI-powered GitHub Pull Request analysis dashboard that helps maintainers and tech leads make informed code review decisions. Paste a GitHub repo URL, select any open PR, and get instant insights powered by IBM Watson Machine Learning with Granite 3.0 8B Instruct.
