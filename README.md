@@ -11,12 +11,12 @@
 
 PRobe analyzes pull requests and surfaces:
 
-- **Plain English Summaries** — Understand what the PR does in seconds, written for non-technical stakeholders
-- **Refactor Score** — Visual circular progress ring showing code quality (0-100 scale)
-- **Test Coverage Analysis** — Identifies functions missing test coverage with severity ratings
-- **Security Scanning** — Detects vulnerabilities, hardcoded secrets, and insecure patterns
-- **PR Size Warnings** — Flags oversized PRs and mixed concerns with split suggestions
-- **Auto-Label Suggestions** — AI-generated labels with confidence scores
+- **Plain English Summaries**: Understand what the PR does in seconds, written for non-technical stakeholders
+- **Refactor Score**: Visual circular progress ring showing code quality (0-100 scale)
+- **Test Coverage Analysis**: Identifies functions missing test coverage with severity ratings
+- **Security Scanning**: Detects vulnerabilities, hardcoded secrets, and insecure patterns
+- **PR Size Warnings**: Flags oversized PRs and mixed concerns with split suggestions
+- **Auto-Label Suggestions**: AI-generated labels with confidence scores
 
 All analysis happens in **one single AI call** to conserve credits and maximize efficiency.
 
@@ -25,16 +25,16 @@ All analysis happens in **one single AI call** to conserve credits and maximize 
 ## 🚀 Features
 
 ### For Maintainers
-- **Zero Configuration** — Works with public GitHub repos, no authentication required
-- **Instant Analysis** — Results in ~10-15 seconds per PR
-- **Smart Caching** — Analyzed PRs are cached for 30 minutes
-- **Brutalist UI** — Clean, distraction-free interface with true black (#0a0a0a) background
+- **Zero Configuration**: Works with public GitHub repos, no authentication required
+- **Instant Analysis**: Results in ~10-15 seconds per PR
+- **Smart Caching**: Analyzed PRs are cached for 30 minutes
+- **Brutalist UI**: Clean, distraction-free interface with true black (#0a0a0a) background
 
 ### For Tech Leads
-- **Risk Assessment** — Refactor scores highlight technical debt
-- **Security First** — CVE detection, secret scanning, and pattern analysis
-- **Review Efficiency** — Plain English summaries save review time
-- **Data-Driven Decisions** — Confidence scores on all AI suggestions
+- **Risk Assessment**: Refactor scores highlight technical debt
+- **Security First**: CVE detection, secret scanning, and pattern analysis
+- **Review Efficiency**: Plain English summaries save review time
+- **Data-Driven Decisions**: Confidence scores on all AI suggestions
 
 ## 🛠️ Tech Stack
 
