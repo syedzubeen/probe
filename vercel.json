@@ -2,10 +2,5 @@
   "buildCommand": "npm run build",
   "devCommand": "npm run dev",
   "installCommand": "npm install",
-  "framework": "nextjs",
-  "env": {
-    "GITHUB_TOKEN": "@github_token",
-    "BOB_API_URL": "@bob_api_url",
-    "BOB_API_KEY": "@bob_api_key"
-  }
+  "framework": "nextjs"
 }
