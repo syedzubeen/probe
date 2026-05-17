@@ -2,7 +2,7 @@
 
 **PRobe** is an AI-powered GitHub Pull Request analysis dashboard that helps maintainers and tech leads make informed code review decisions. Paste a GitHub repo URL, select any open PR, and get instant insights powered by IBM Watson Machine Learning with Granite 3.0 8B Instruct.
 
-![PRobe Landing Page](./docs/images/landing-page.png)
+![PRobe Landing Page](https://github.com/user-attachments/assets/4b14b211-5814-44c1-9547-316893f18758)
 
 ## 🎯 What PRobe Does
 
@@ -17,7 +17,7 @@ PRobe analyzes pull requests and surfaces:
 
 All analysis happens in **one single AI call** to conserve credits and maximize efficiency.
 
-![PRobe Dashboard](https://github.com/user-attachments/assets/4b14b211-5814-44c1-9547-316893f18758)
+![PRobe Dashboard]()
 
 ## 🚀 Features
 
