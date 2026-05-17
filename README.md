@@ -233,8 +233,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For issues, questions, or feature requests:
-- Open an issue on [GitHub Issues](https://github.com/yourusername/probe/issues)
-- Contact: your.email@example.com
+- Open an issue on [GitHub Issues](https://github.com/syedzubeen/probe/issues)
 
 ---
 
