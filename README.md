@@ -240,8 +240,6 @@ For issues, questions, or feature requests:
 
 ---
 
-## 🏆 IBM Bob Hackathon 2026
-
 # IBM Bob Hackathon 2026
 
 PRobe was built for the **IBM Bob Hackathon 2026** to explore how AI development partners like IBM Bob can transform modern code review workflows.
