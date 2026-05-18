@@ -87,7 +87,7 @@ All analysis happens in **one single AI call** to conserve credits and maximize 
    
    Navigate to [http://localhost:3000](http://localhost:3000)
 
-## 🎨 Design System
+## Design System
 
 PRobe uses a custom brutalist design system:
 
@@ -153,7 +153,7 @@ The score considers:
 - Single Responsibility Principle violations
 - Nesting depth (>4 levels penalized)
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 probe/
@@ -194,7 +194,7 @@ probe/
 └── public/                   # Static assets
 ```
 
-## 🚢 Deployment
+## Deployment
 
 ### Vercel (Recommended)
 
@@ -212,7 +212,7 @@ PRobe is a standard Next.js app and can be deployed to:
 - Netlify
 - Self-hosted with Docker
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -222,18 +222,18 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **IBM Watson Machine Learning** for providing the Granite 3.0 8B Instruct model
 - **GitHub** for the comprehensive REST API
 - **Vercel** for Next.js and deployment platform
 - **Tailwind CSS** for the utility-first CSS framework
 
-## 📞 Support
+## Support
 
 For issues, questions, or feature requests:
 - Open an issue on [GitHub Issues](https://github.com/syedzubeen/probe/issues)
