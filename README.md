@@ -238,9 +238,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For issues, questions, or feature requests:
 - Open an issue on [GitHub Issues](https://github.com/syedzubeen/probe/issues)
 
----
 
-# IBM Bob Hackathon 2026
+## IBM Bob Hackathon 2026
 
 PRobe was built for the **IBM Bob Hackathon 2026** to explore how AI development partners like IBM Bob can transform modern code review workflows.
 
